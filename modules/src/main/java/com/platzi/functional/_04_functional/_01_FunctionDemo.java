@@ -27,7 +27,7 @@ public class _01_FunctionDemo {
             }
         };
 
-        //Y luego invocar el metodo apply con parametros del tipo correspondiente…
+        //Y luego invocar el metodo apply con parametros del tipo correspondienete…
         someFun.apply(null);
     }
 
